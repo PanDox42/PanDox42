@@ -25,7 +25,7 @@
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_html.png" width="50" height="50" alt="HTML" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_css.png" width="50" height="50" alt="CSS" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_js.png" width="50" height="50" alt="JavaScript" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_sql.png" width="40" height="40" alt="SQL" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_sql.png" width="50" height="50" alt="SQL" /></a>
 </p>
 
 <h3 align="center">🛠️ Outils & Environnements</h3>
