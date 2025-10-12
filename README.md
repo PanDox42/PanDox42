@@ -1,6 +1,6 @@
 <h1 align="center">Salut, moi c'est Josué !</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=100&size=25&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&lines=%C3%89tudiant+en+BUT+Informatique+!;Passionn%C3%A9+par+le+d%C3%A9veloppement+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=100&size=25&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+BUT+Informatique+!;Passionn%C3%A9+par+le+d%C3%A9veloppement+!)](https://git.io/typing-svg)
 
 
 <p align="center">
