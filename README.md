@@ -19,11 +19,12 @@
 <p align="center">
   <img src="./img/icon_c.png" width="50" height="50" alt="C" />
   <img src="./img/icon_csharp.png" width="50" height="50" alt="C#" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" />
+  <img src="./img/icon_java.png" width="50" height="50" alt="Java" />
+  <img src="./img/icon_python.png" width="50" height="50" alt="Python" />
+  <img src="./img/icon_php.png" width="50" height="50" alt="PHP" />
+  <img src="./img/icon_html.png" width="50" height="50" alt="HTML" />
+  <img src="./img/icon_css.png" width="50" height="50" alt="CSS" />
+  <img src="./img/icon_js.png" width="50" height="50" alt="JavaScript" />
 </p>
 
 <h3 align="center">🛠️ Outils & Environnements</h3>
