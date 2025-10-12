@@ -9,8 +9,7 @@
 <p>
   🎓 Étudiant en BUT Informatique, passionné par le développement logiciel et les systèmes informatiques.<br /> 
   💡 Curieux par nature, j’aime explorer de nouvelles technologies, tester des idées et donner vie à des projets concrets.<br /> 
-  🚀 Je m’investis dans beaucoup de projets.<br />
-  🤝 Toujours motivé à collaborer, partager mes connaissances et contribuer à des projets collectifs
+  🚀 Toujours motivé à collaborer, partager mes connaissances et contribuer à des projets collectifs
 </p>
 
 
