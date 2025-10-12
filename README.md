@@ -17,7 +17,7 @@
 
 <h2 align="center">🛠️ Compétences techniques</h2>
 
-<h3 align="center">💻 Langages & frameworks</h3>
+<h3 align="center">🌐 Langages & frameworks</h3>
 <p align="center">
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_c.png" width="50" height="50" alt="C" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_csharp.png" width="50" height="50" alt="C#" /></a>
