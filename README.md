@@ -39,6 +39,7 @@
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_vs.png" width="50" height="50" alt="Visual Studio" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_vsc.png" width="50" height="50" alt="Visual Studio Code" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_intelij.png" width="50" height="50" alt="Intelij" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_postman.png" width="50" height="50" alt="Postman" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_godot.png" width="50" height="50" alt="Godot" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_oracle.png" width="50" height="50" alt="Oracle" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_sqlite.png" width="50" height="50" alt="SQLite" /></a>
