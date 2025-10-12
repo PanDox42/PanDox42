@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">🔧 Ce que j’utilise</h2>
+<h2 align="center">🔧 Compétences techniques</h2>
 
 <h3 align="center">🌐 Langages & frameworks</h3>
 <p align="center">
