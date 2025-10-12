@@ -17,15 +17,15 @@
 
 <h3 align="center">🌐 Langages & frameworks</h3>
 <p align="center">
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_c.png" width="50" height="50" alt="C" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_csharp.png" width="50" height="50" alt="C#" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_java.png" width="50" height="50" alt="Java" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_python.png" width="50" height="50" alt="Python" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_php.png" width="55" height="55" alt="PHP" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_html.png" width="50" height="50" alt="HTML" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_css.png" width="50" height="50" alt="CSS" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_js.png" width="50" height="50" alt="JavaScript" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_sql.png" width="50" height="50" alt="SQL" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_c.png" width="50" height="50" alt="C" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_csharp.png" width="50" height="50" alt="C#" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_java.png" width="50" height="50" alt="Java" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_python.png" width="50" height="50" alt="Python" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_php.png" width="55" height="55" alt="PHP" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_html.png" width="50" height="50" alt="HTML" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_css.png" width="50" height="50" alt="CSS" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_js.png" width="50" height="50" alt="JavaScript" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_sql.png" width="50" height="50" alt="SQL" /></a>
 </p>
 
 <h3 align="center">🛠️ Outils & Environnements</h3>
