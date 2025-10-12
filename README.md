@@ -21,7 +21,7 @@
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_csharp.png" width="50" height="50" alt="C#" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_java.png" width="50" height="50" alt="Java" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_python.png" width="50" height="50" alt="Python" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_php.png" width="70" height="70" alt="PHP" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_php.png" width="60" height="60" alt="PHP" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_html.png" width="50" height="50" alt="HTML" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_css.png" width="50" height="50" alt="CSS" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_js.png" width="50" height="50" alt="JavaScript" /></a>
