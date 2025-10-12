@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=100&size=25&duration=3000&pause=2000&color=9D00FF&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+BUT+Informatique+!;Passionn%C3%A9+par+le+d%C3%A9veloppement+!)](https://github.com/PanDox42)
 </div>
 
+---
+
 <p align="center">
   🎓 Étudiant en BUT Informatique, passionné par le développement logiciel et les systèmes informatiques.<br /> 
   💡 Curieux par nature, j’aime explorer de nouvelles technologies, tester des idées et donner vie à des projets concrets.<br /> 
