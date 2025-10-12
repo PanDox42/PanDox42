@@ -77,21 +77,3 @@
 </p>
 
 ---
-
-<h2 align=center>🌐 Me retrouver</h2>
-
-<div align=center>
-  <a href="https://www.linkedin.com/in/martin-schnider-sylvestre-4a1397360">
-    <img height="50" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
-  </a>
-  <a href="https://github.com/Suly-ms">
-    <img height="50" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
-  </a>
-  <a href="https://www.instagram.com/martin_schs/">
-    <img height="50" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"/>
-  </a>
-</div>
-
-<div align=center>
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"/>
-</div>
