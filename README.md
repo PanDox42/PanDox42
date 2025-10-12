@@ -13,6 +13,7 @@
   🚀 Toujours motivé à collaborer, partager mes connaissances et contribuer à des projets collectifs
 </p>
 
+---
 
 <h2 align="center">🔧 Compétences techniques</h2>
 
