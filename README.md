@@ -17,7 +17,7 @@
 
 <h3 align="center">🌐 Langages & frameworks</h3>
 <p align="center">
-  <img src="./images/icon_c.png" width="40" height="40" alt="C" />
+  <img src="./img/icon_c.png" width="40" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
