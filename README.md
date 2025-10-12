@@ -8,8 +8,9 @@
 
 <p align="center">
   🎓 Étudiant en BUT Informatique, passionné par le développement logiciel et les systèmes informatiques.<br /> 
-  💡 J’aime apprendre, expérimenter et créer des projets concrets.<br /> 
-  🚀 Je travaille sur des projets variés : jeux de rôle, applications de gestion, et outils pour faciliter la vie quotidienne.
+  💡 Curieux par nature, j’aime explorer de nouvelles technologies, tester des idées et donner vie à des projets concrets.<br /> 
+  🚀 Je travaille sur des projets variés : jeux de rôle, applications de gestion, et outils pour faciliter la vie quotidienne.<br />
+  🤝 Toujours motivé à collaborer, partager mes connaissances et contribuer à des projets collectifs
 </p>
 
 
