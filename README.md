@@ -1,6 +1,6 @@
 <h1 align="center">Salut, moi c'est Josué !</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Salut+%F0%9F%91%8B;Bienvenue+sur+mon+profil+GitHub;Je+suis+Josue+Martin)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.demolab.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Salut+%F0%9F%91%8B;Bienvenue+sur+mon+profil+GitHub;Je+suis+Josue+Martin](https://readme-typing-svg.demolab.com/demo/?font=Source+Code+Pro&weight=100&size=25&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&lines=%C3%89tudiant+en+BUT+Informatique+!;Passionn%C3%A9+par+le+d%C3%A9veloppement+!))](https://git.io/typing-svg)
 
 <p align="center">
   🎓 Je suis étudiant passionné par le développement et par les systèmes informatiques !<br /> 
