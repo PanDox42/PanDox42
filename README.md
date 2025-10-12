@@ -43,6 +43,7 @@
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_oracle.png" width="50" height="50" alt="Oracle" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_sqlite.png" width="50" height="50" alt="SQLite" /></a>
 </p>
+<br />
 
 <p align="center">🔎 Ces compétences techniques représentent l’essentiel de mon parcours actuel. Je continue à élargir mes connaissances, explorer de nouveaux langages et outils, et améliorer ma pratique à travers mes projets personnels et universitaires. 🔎
 </p>
