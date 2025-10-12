@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Josué !</h1>
+<h1 align="center">Josué Martin — Code, Systèmes & Projets !</h1>
 
 <div align="center">
   
