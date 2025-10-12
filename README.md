@@ -30,13 +30,14 @@
 
 <h3 align="center">🛠️ Outils & Environnements</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="40" height="40" alt="Git" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" alt="Godot" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAwODk4MTUsIm5iZiI6MTc2MDA4OTUxNSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzEtM2MxNmQ0ZjItYjc1Ny00YzcwLThmNDItNDNkNWRkZGQyYzM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEwVDA5NDUxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1YjFkN2RhMTZkYmYwYWNkOGEyMmJlN2Q3NWVmMTdmYjcxOWNhMjY0YjJjYzZlOTRkOGRhMDkzOTQ3MjVlNDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TkTV8ux9E43bnSpGlX0K_6Q0gkHEnfVfjRanz3H8Vz8" width="40" height="40" alt="Firebase" />
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_debian.png" width="50" height="50" alt="Debian" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_windwos.png" width="50" height="50" alt="Windows" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_git.png" width="50" height="50" alt="Git" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_vs.png" width="50" height="50" alt="Visual Studio" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_vsc.png" width="50" height="50" alt="Visual Studio Code" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_intelij.png" width="50" height="50" alt="Intelij" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_oracle.png" width="50" height="50" alt="Oracle" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_sqlite.png" width="50" height="50" alt="SQLite" /></a>
 </p>
 
 <p align=center><strong>Intérêts</strong> : Développement d’applications, jeux vidéo, gestion de données, réseaux</p>
