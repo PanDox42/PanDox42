@@ -33,6 +33,7 @@
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_debian.png" width="50" height="50" alt="Debian" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_windwos.png" width="50" height="50" alt="Windows" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_git.png" width="50" height="50" alt="Git" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_dotnet.png" width="50" height="50" alt="Dot Net" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_vs.png" width="50" height="50" alt="Visual Studio" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_vsc.png" width="50" height="50" alt="Visual Studio Code" /></a>
   <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_intelij.png" width="50" height="50" alt="Intelij" /></a>
