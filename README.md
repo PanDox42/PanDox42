@@ -17,14 +17,14 @@
 
 <h3 align="center">🌐 Langages & frameworks</h3>
 <p align="center">
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="./img/icon_c.png" width="50" height="50" alt="C" /></a>
-  <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"><img src="./img/icon_csharp.png" width="50" height="50" alt="C#" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="./img/icon_java.png" width="50" height="50" alt="Java" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="./img/icon_python.png" width="50" height="50" alt="Python" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="./img/icon_php.png" width="50" height="50" alt="PHP" /></a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="./img/icon_html.png" width="50" height="50" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="./img/icon_css.png" width="50" height="50" alt="CSS" /></a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="./img/icon_js.png" width="50" height="50" alt="JavaScript" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_c.png" width="50" height="50" alt="C" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_csharp.png" width="50" height="50" alt="C#" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_java.png" width="50" height="50" alt="Java" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_python.png" width="50" height="50" alt="Python" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_php.png" width="50" height="50" alt="PHP" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_html.png" width="50" height="50" alt="HTML" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_css.png" width="50" height="50" alt="CSS" /></a>
+  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/icon_js.png" width="50" height="50" alt="JavaScript" /></a>
 </p>
 
 <h3 align="center">🛠️ Outils & Environnements</h3>
