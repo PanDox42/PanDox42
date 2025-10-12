@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  🎓 Je suis étudiant passionné par le développement et par les systèmes informatiques !<br /> 
+  🎓 Étudiant en BUT Informatique, passionné par le développement logiciel et les systèmes informatiques.<br /> 
   💡 J’aime apprendre, expérimenter et créer des projets concrets.<br /> 
   🚀 Je travaille sur des projets variés : jeux de rôle, applications de gestion, et outils pour faciliter la vie quotidienne.
 </p>
