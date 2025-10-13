@@ -65,32 +65,8 @@
 
 <h2 align=center>📊 Statistiques GitHub</h2>
 
-<p align="center">
-  <a href="https://github.com/Suly-ms/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suly-ms&layout=compact&theme=radical" alt="Top Langs" />
-  </a>
-</p>
-
 ---
 
 <h2 align=center>📌 Projets mis en avant</h2>
-
-<p align="center">
-  <a href="https://github.com/Suly-ms/Donjons-et-Dragons">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=Donjons-et-Dragons&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Donjons et Dragons" />
-  </a>
-  <a href="https://github.com/Suly-ms/Projet-Caserne">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=Projet-Caserne&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Projet Caserne" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Suly-ms/KeepItClean">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=KeepItClean&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Keep It Clean" />
-  </a>
-  <a href="https://github.com/Suly-ms/Add-app-research-linux">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=Add-app-research-linux&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Add App Research Linux" />
-  </a>
-</p>
 
 ---
