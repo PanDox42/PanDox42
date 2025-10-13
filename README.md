@@ -53,6 +53,12 @@
 ---
 
 <h2 align="center">🎯 Mes Objectifs </h2>
+<p align="center">
+  🌱 Continuer à apprendre et renforcer mes connaissances en développement et en systèmes informatiques. <br/>
+  🚀 Participer à des projets concrets, qu’ils soient académiques, personnels ou open-source. <br/>
+  👥 Développer mes compétences en travail d’équipe et en gestion de projet. <br/>
+  🔐 Explorer davantage des domaines qui m’intéressent comme la cybersécurité et l’optimisation logicielle. <br/>
+</p>
 
 ---
 
