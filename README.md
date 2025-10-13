@@ -52,6 +52,8 @@
 
 ---
 
+<h2 align="center">🎯 Mes Objectifs </h2>
+
 <h2 align=center>📊 Statistiques GitHub</h2>
 
 <p align="center">
