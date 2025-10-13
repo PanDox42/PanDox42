@@ -62,12 +62,3 @@
 </p>
 
 ---
-
-
-<h2 align=center>📊 Statistiques GitHub</h2>
-
----
-
-<h2 align=center>📌 Projets mis en avant</h2>
-
----
