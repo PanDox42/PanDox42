@@ -56,7 +56,7 @@
 <p align="center">
   🔐 Explorer davantage des domaines qui m’intéressent comme la cybersécurité et l’optimisation logicielle. <br/>
   🚀 Participer à des projets concrets, qu’ils soient académiques, personnels ou open-source. <br/>
-  🌱 Continuer à apprendre et à renforcer mes connaissances en développement et en systèmes informatiques. <br/>
+  🌱 Continuer à apprendre et renforcer mes connaissances en développement et en systèmes informatiques. <br/>
   👥 Développer mes compétences en travail d’équipe et en gestion de projet. <br/>
 </p>
 
