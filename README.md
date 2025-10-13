@@ -15,16 +15,6 @@
 
 ---
 
-<h2 align="center">🎯 Mes Objectifs </h2>
-<p align="center">
-  🌱 Continuer à apprendre et renforcer mes connaissances en développement et en systèmes informatiques. <br/>
-  🚀 Participer à des projets concrets, qu’ils soient académiques, personnels ou open-source. <br/>
-  🔐 Explorer davantage des domaines qui m’intéressent comme la cybersécurité et l’optimisation logicielle. <br/>
-  👥 Développer mes compétences en travail d’équipe et en gestion de projet. <br/>
-</p>
-
----
-
 <h2 align="center">🛠️ Compétences techniques</h2>
 
 <h3 align="center">🌐 Langages & frameworks</h3>
@@ -58,6 +48,16 @@
 <br />
 
 <p align="center">🔎 Ces compétences techniques représentent l’essentiel de mon parcours actuel. Je continue à élargir mes connaissances, explorer de nouveaux langages et outils, et améliorer ma pratique à travers mes projets personnels et universitaires. 🔎
+</p>
+
+---
+
+<h2 align="center">🎯 Mes Objectifs </h2>
+<p align="center">
+  🌱 Continuer à apprendre et renforcer mes connaissances en développement et en systèmes informatiques. <br/>
+  🚀 Participer à des projets concrets, qu’ils soient académiques, personnels ou open-source. <br/>
+  🔐 Explorer davantage des domaines qui m’intéressent comme la cybersécurité et l’optimisation logicielle. <br/>
+  👥 Développer mes compétences en travail d’équipe et en gestion de projet. <br/>
 </p>
 
 ---
