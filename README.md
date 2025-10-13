@@ -60,5 +60,3 @@
   🔐 Explorer davantage des domaines qui m’intéressent comme la cybersécurité et l’optimisation logicielle. <br/>
   👥 Développer mes compétences en travail d’équipe et en gestion de projet. <br/>
 </p>
-
----
