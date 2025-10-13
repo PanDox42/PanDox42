@@ -19,32 +19,32 @@
 
 <h3 align="center">🌐 Langages & frameworks</h3>
 <p align="center">
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_c.png" width="50" height="50" alt="C" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_csharp.png" width="50" height="50" alt="C#" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_java.png" width="50" height="50" alt="Java" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_python.png" width="50" height="50" alt="Python" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_php.png" width="55" height="55" alt="PHP" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_html.png" width="50" height="50" alt="HTML" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_css.png" width="50" height="50" alt="CSS" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_js.png" width="50" height="50" alt="JavaScript" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_sql.png" width="50" height="50" alt="SQL" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/langages/icon_assembly.png" width="50" height="50" alt="Assembly" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="./img/langages/icon_c.png" width="50" height="50" alt="C" /></a>
+  <a href="https://dotnet.microsoft.com/fr-fr/languages/csharp" target="_blank"><img src="./img/langages/icon_csharp.png" width="50" height="50" alt="C#" /></a>
+  <a href="https://www.java.com/fr/" target="_blank"><img src="./img/langages/icon_java.png" width="50" height="50" alt="Java" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="./img/langages/icon_python.png" width="50" height="50" alt="Python" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="./img/langages/icon_php.png" width="55" height="55" alt="PHP" /></a>
+  <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" target="_blank"><img src="./img/langages/icon_html.png" width="50" height="50" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="./img/langages/icon_css.png" width="50" height="50" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="./img/langages/icon_js.png" width="50" height="50" alt="JavaScript" /></a>
+  <a href="https://sql.sh/" target="_blank"><img src="./img/langages/icon_sql.png" width="50" height="50" alt="SQL" /></a>
+  <a href="https://www.felixcloutier.com/x86/" target="_blank"><img src="./img/langages/icon_assembly.png" width="50" height="50" alt="Assembly" /></a>
 </p>
 
 <h3 align="center">🛠️ Outils & Environnements</h3>
 <p align="center">
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_debian.png" width="50" height="50" alt="Debian" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_windwos.png" width="50" height="50" alt="Windows" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_git.png" width="50" height="50" alt="Git" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_dotnet.png" width="50" height="50" alt="Dot Net" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_vs.png" width="50" height="50" alt="Visual Studio" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_vsc.png" width="50" height="50" alt="Visual Studio Code" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_intelij.png" width="50" height="50" alt="Intelij" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_godot.png" width="50" height="50" alt="Godot" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_bash.png" width="50" height="50" alt="Bash" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_postman.png" width="50" height="50" alt="Postman" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_oracle.png" width="50" height="50" alt="Oracle" /></a>
-  <a href="https://github.com/PanDox42" target="_blank"><img src="./img/outils/icon_sqlite.png" width="50" height="50" alt="SQLite" /></a>
+  <a href="https://www.debian.org/" target="_blank"><img src="./img/outils/icon_debian.png" width="50" height="50" alt="Debian" /></a>
+  <a href="https://www.microsoft.com/fr-fr/windows" target="_blank"><img src="./img/outils/icon_windwos.png" width="50" height="50" alt="Windows" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="./img/outils/icon_git.png" width="50" height="50" alt="Git" /></a>
+  <a href="https://dotnet.microsoft.com/fr-fr/" target="_blank"><img src="./img/outils/icon_dotnet.png" width="50" height="50" alt="Dot Net" /></a>
+  <a href="https://visualstudio.microsoft.com/fr/" target="_blank"><img src="./img/outils/icon_vs.png" width="50" height="50" alt="Visual Studio" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="./img/outils/icon_vsc.png" width="50" height="50" alt="Visual Studio Code" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="./img/outils/icon_intelij.png" width="50" height="50" alt="Intelij" /></a>
+  <a href="https://godotengine.org/fr/" target="_blank"><img src="./img/outils/icon_godot.png" width="50" height="50" alt="Godot" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="./img/outils/icon_bash.png" width="50" height="50" alt="Bash" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="./img/outils/icon_postman.png" width="50" height="50" alt="Postman" /></a>
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="./img/outils/icon_oracle.png" width="50" height="50" alt="Oracle" /></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="./img/outils/icon_sqlite.png" width="50" height="50" alt="SQLite" /></a>
 </p>
 <br />
 
