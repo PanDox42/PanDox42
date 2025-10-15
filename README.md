@@ -25,7 +25,7 @@
   <a href="https://www.java.com/fr/" target="_blank"><img src="./img/langages/icon_java.png" width="50" height="50" alt="Java" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="./img/langages/icon_python.png" width="50" height="50" alt="Python" /></a>
   <a href="https://www.php.net/" target="_blank"><img src="./img/langages/icon_php.png" width="55" height="55" alt="PHP" /></a>
-  <a href="https://laravel.com/" target="_blank"><img src="./img/langages/icon_laravel.png" width="55" height="55" alt="Laravel" /></a>
+  <a href="https://laravel.com/" target="_blank"><img src="./img/langages/icon_laravel.png" width="50" height="50" alt="Laravel" /></a>
   <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" target="_blank"><img src="./img/langages/icon_html.png" width="50" height="50" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="./img/langages/icon_css.png" width="50" height="50" alt="CSS" /></a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="./img/langages/icon_js.png" width="50" height="50" alt="JavaScript" /></a>
