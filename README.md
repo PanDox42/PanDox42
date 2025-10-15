@@ -50,7 +50,7 @@
 </p>
 <br />
 
-<p align="center">🔎 Ces compétences techniques représentent l’essentiel de mon parcours actuel. Je continue à élargir mes connaissances, explorer de nouveaux langages et outils, et améliorer ma pratique à travers mes projets personnels et universitaires. 🔎
+<p align="center">🔎 Ces compétences techniques représentent l’essentiel de mon parcours actuel. Je continue à élargir mes connaissances, explorer de nouveaux langages, frameworks et outils, et améliorer ma pratique à travers mes projets personnels et universitaires. 🔎
 </p>
 
 ---
