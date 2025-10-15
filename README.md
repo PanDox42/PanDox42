@@ -2,7 +2,8 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=100&size=25&duration=3000&pause=2000&color=9D00FF&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+BUT+Informatique+!;Passionn%C3%A9+par+le+d%C3%A9veloppement+!)](https://github.com/PanDox42)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=100&size=25&duration=3000&pause=2000&color=9D00FF&center=true&vCenter=true&width=435&lines=Étudiant+en+BUT+Informatique+!;Passionné+par+le+d%C3%A9veloppement+!)](https://github.com/PanDox42)
+
 </div>
 
 ---
