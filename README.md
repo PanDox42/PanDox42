@@ -29,6 +29,7 @@
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="./img/langages/icon_html.png" width="50" height="50" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="./img/langages/icon_css.png" width="50" height="50" alt="CSS" /></a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="./img/langages/icon_js.png" width="50" height="50" alt="JavaScript" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="./img/outils/icon_bash.png" width="50" height="50" alt="Bash" /></a>
   <a href="https://sql.sh/" target="_blank"><img src="./img/langages/icon_sql.png" width="50" height="50" alt="SQL" /></a>
   <!-- <a href="https://www.felixcloutier.com/x86/" target="_blank"><img src="./img/langages/icon_assembly.png" width="50" height="50" alt="Assembly" /></a> -->
 </p>
@@ -43,7 +44,6 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="./img/outils/icon_vsc.png" width="50" height="50" alt="Visual Studio Code" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="./img/outils/icon_intelij.png" width="50" height="50" alt="Intelij" /></a>
   <a href="https://godotengine.org/fr/" target="_blank"><img src="./img/outils/icon_godot.png" width="50" height="50" alt="Godot" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="./img/outils/icon_bash.png" width="50" height="50" alt="Bash" /></a>
   <a href="https://www.postman.com/" target="_blank"><img src="./img/outils/icon_postman.png" width="50" height="50" alt="Postman" /></a>
   <a href="https://www.oracle.com/database/" target="_blank"><img src="./img/outils/icon_oracle.png" width="50" height="50" alt="Oracle" /></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="./img/outils/icon_sqlite.png" width="50" height="50" alt="SQLite" /></a>
