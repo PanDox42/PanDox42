@@ -30,7 +30,7 @@
   <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="./img/langages/icon_css.png" width="50" height="50" alt="CSS" /></a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="./img/langages/icon_js.png" width="50" height="50" alt="JavaScript" /></a>
   <a href="https://sql.sh/" target="_blank"><img src="./img/langages/icon_sql.png" width="50" height="50" alt="SQL" /></a>
-  <a href="https://www.felixcloutier.com/x86/" target="_blank"><img src="./img/langages/icon_assembly.png" width="50" height="50" alt="Assembly" /></a>
+  <!-- <a href="https://www.felixcloutier.com/x86/" target="_blank"><img src="./img/langages/icon_assembly.png" width="50" height="50" alt="Assembly" /></a> -->
 </p>
 
 <h3 align="center">🛠️ Outils & Environnements</h3>
