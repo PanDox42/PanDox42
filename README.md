@@ -1,5 +1,3 @@
-[![English](https://img.shields.io/badge/lang-English-blue?style=for-the-badge)](README_EN.md)
-
 <h1 align="center">Josué MARTIN - Code, Systèmes & Projets 👨‍💻</h1>
 
 <div align="center">
